@@ -6,12 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
-    echo '<p> Hello World </p>'
-    ?>
-    <?php
-    $nombre= "Nora";
-    ?>
-    <?= $nombre ?>
+   <?= "<p>La ciudad en la posicion 3 es $valor1 </p>"?>
+   <br>
 </body>
 </html>

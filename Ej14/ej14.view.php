@@ -6,12 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
-    echo '<p> Hello World </p>'
-    ?>
-    <?php
-    $nombre= "Nora";
-    ?>
-    <?= $nombre ?>
+    <?= "La traducción de Hola es : ". $traducciones["Hola"]?>
+    <br>
+    <?= "La traduccion de Adios es: ". $traducciones["Adios"]?>
 </body>
 </html>

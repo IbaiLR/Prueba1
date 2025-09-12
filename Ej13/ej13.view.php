@@ -6,12 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
-    echo '<p> Hello World </p>'
-    ?>
-    <?php
-    $nombre= "Nora";
-    ?>
-    <?= $nombre ?>
+    
 </body>
 </html>
