@@ -1,5 +1,8 @@
-<?php
-echo "Hola mundo";
+<?php 
+$estudiantes=["Iker", "Paco", "Antonio"];
+
+foreach ($estudiantes as $estudiante ) {
+    echo $estudiante;
+}
+
 ?>
-<a href="index2.php"> index2</a>
-<a href="index3.php"> index3</a>
