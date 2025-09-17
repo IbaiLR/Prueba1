@@ -9,7 +9,7 @@ $agenda =[
 
     ],
     [
-"nombre"=>"Amaia",
+"nombre"=>"Ibai",
 "apellidos"=>"Gorbea Jainaga",
 "telefono"=>"945010101",
 "email"=> "Amaia.Gorbea@gmail.com"
@@ -20,6 +20,7 @@ $agenda =[
 "telefono"=>"945010101",
 "email"=> "Amaia.Gorbea@gmail.com"
     ]
-]
+    ];
+require "ej24.view.php";
 
 ?>
